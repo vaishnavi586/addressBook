@@ -20,8 +20,7 @@ public class AddressBook {
 	}
 
 
-	/** Menu **/
-	void askUser() {
+               void askUser() {
 		System.out.println("Select an action..");
 		System.out.println("1. To Create a new contact");
 		System.out.println("2. To fill details of contact");
